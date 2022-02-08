@@ -2,4 +2,4 @@
 
 * 第1講: [訊號的基本概念與數學運算](https://colab.research.google.com/github/luckguy/SS2022/blob/main/SS01.ipynb)
 * 第2講: [複數弦波訊號]
-* *連續時間複數弦波訊號(https://colab.research.google.com/github/luckguy/SS2022/blob/main/SS02_c.ipynb)
+*   * 連續時間複數弦波訊號(https://colab.research.google.com/github/luckguy/SS2022/blob/main/SS02_c.ipynb)
