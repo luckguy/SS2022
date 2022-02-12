@@ -8,4 +8,8 @@
   * [離散時間單位步階訊號與單位脈衝訊號](https://colab.research.google.com/github/luckguy/SS2022/blob/main/SS03_d.ipynb)
   * [連續時間單位步階訊號與單位脈衝訊號](https://colab.research.google.com/github/luckguy/SS2022/blob/main/SS03_c.ipynb)
 * 第4講: 連續時間系統與離散時間系統
-* 第５講：系統基本性質
+* 第5講: 系統基本性質
+
+* 第6講: LTI 系統介紹
+* 第7講: 離散時間LTI系統
+* 第8講: 連續時間LTI系統
