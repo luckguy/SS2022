@@ -12,4 +12,6 @@
 
 * 第6講: LTI 系統介紹
 * 第7講: 離散時間LTI系統
+* * [離散時間LTI系統脈衝響應](https://colab.research.google.com/github/luckguy/SS2022/blob/main/SS07_impulse.ipynb)
+  * [捲積和計算](https://colab.research.google.com/github/luckguy/SS2022/blob/main/SS07_convolution.ipynb)
 * 第8講: 連續時間LTI系統
